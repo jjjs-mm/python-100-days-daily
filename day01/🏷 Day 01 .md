@@ -27,7 +27,7 @@
 2. 直接push每日更新内容（每日代码和笔记整理好后）：
 
        git add .
-       git commit -m "Day 1: 更新内容-git管理技术使用"
+       git commit -m "Day 2: 更新内容-Python基础知识学习”
        git push
 
 **SSH部分操作：**
